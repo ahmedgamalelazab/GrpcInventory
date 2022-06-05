@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jU/Mkqy9AdKz//XkrQ/oA9WfZXzlOeRT4eTk2cuKt7oKRYivYjL04e2815T5g26bSmA9YKHDzpUItHHNgsUdSw==",
+  "dgSpecHash": "6K8dGpTH6r5E+GDrB1AS+U91NgppG7GAJEmqcyH9jDqjJe31XDFOVF4ovQmt6qiU39yHH1/QqGc7HUjX/JHooQ==",
   "success": true,
-  "projectFilePath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\InventoryService\\InventoryService.csproj",
+  "projectFilePath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpcInventory\\InventoryService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gemy\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\gemy\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\InventoryService\\InventoryService.csproj": {}
+    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpcInventory\\InventoryService.csproj": {}
   },
   "projects": {
-    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\InventoryService\\InventoryService.csproj": {
+    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpcInventory\\InventoryService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\InventoryService\\InventoryService.csproj",
+        "projectUniqueName": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpcInventory\\InventoryService.csproj",
         "projectName": "InventoryService",
-        "projectPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\InventoryService\\InventoryService.csproj",
+        "projectPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpcInventory\\InventoryService.csproj",
         "packagesPath": "C:\\Users\\gemy\\.nuget\\packages\\",
-        "outputPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\InventoryService\\obj\\",
+        "outputPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\GrpcInventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
